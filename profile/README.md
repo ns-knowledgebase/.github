@@ -1,1 +1,3 @@
- <a href="https://github.com/ns-knowledgebase/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ns-knowledgebase&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ns-knowledgebase github stats" /></a> | <a href="https://github.com/ns-knowledgebase/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns-knowledgebase&layout=compact&theme=buefy&hide_border=true" /></a> 
+<p align="center"><a href="https://one-is.jp"><img width="80%" alt="Hello, I'm kensuke" src="https://images.microcms-assets.io/assets/b24c2fef659a452faaa91dbc5c181024/861acbf1460b4e5c970fe5109478f3fe/neres.png?auto=format,compress&h=300" /></a></p> 
+
+
